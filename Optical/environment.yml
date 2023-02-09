@@ -1,0 +1,14 @@
+name: optical-workshop
+channels:
+  - conda-forge
+dependencies:
+- numpy
+- rasterio
+- shapely
+- pillow
+- geopandas
+- scikit-learn
+- jupyterlab
+- ipywidgets
+- pip:
+  - eo-learn
