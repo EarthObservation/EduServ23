@@ -13,8 +13,9 @@ Once installed open Anaconda Prompt and move to the location of the extracted re
 Here you can create a new environment for this tutorial using the provided environment.yml file:
 
 ```
-conda env create --name optical-workshop --file environment.yml
-conda activate optical-workshop
+conda update -n base -c defaults conda
+conda env create --name eo --file environment.yml
+conda activate eo
 ```
 
 Alternatively, you can use pip to install the libraries using 'pip' and follow the tutorial. This will take some time. Once installed run `jupyter lab` and a browser tab will open.
