@@ -18,6 +18,6 @@ Is available on the following [link](https://unilj-my.sharepoint.com/:f:/g/perso
 Preparation of the materials was part financed by the Slovenian Research Agency core funding No. P2-0406.
 
 ## License
-This project is licensed under the terms of the [GNU License](LICENSE).
+This project is licensed under the terms of the [Apache License](LICENSE).
 
 © Copyright 2022 University of Ljubljana, Faculty of Civil and Geodetic Engineering
